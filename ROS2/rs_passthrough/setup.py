@@ -14,7 +14,7 @@ setup(
         ('share/' + package_name, ['package.xml']),
         (os.path.join('share', package_name), glob('launch/*.launch.py'))
     ],
-    install_requires=['setuptools'],
+    install_requires=['setuptools', 'rs_protocol'],
     zip_safe=True,
     maintainer_email='support@reachrobotics.com',
     description='Passthrough node for Reach Robotics Products.',
