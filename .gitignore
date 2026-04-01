@@ -8,3 +8,9 @@ venv/
 
 
 
+
+ROS2/reach_bravo_description_mk2/meshes/build/
+
+ROS2/reach_bravo_description_mk2/meshes/install/
+
+ROS2/reach_bravo_description_mk2/meshes/log/

@@ -15,7 +15,7 @@
         <link name="${name}_base_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1019 A.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1019_A.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
@@ -53,7 +53,7 @@
         <link name="${name}_1019_end_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1019 B.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1019_B.stl"/>
                 </geometry>
                 <origin xyz="0 0 0" rpy="0 0 3.14159"/>
                 <material name="bravo_black"/>
@@ -70,7 +70,7 @@
         <link name="${name}_1013_base_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1013 A.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1013_A.stl"/>
                 </geometry>
                 <origin rpy="0 0 3.14159" xyz="0.0 00 0.0"/>
                 <material name="bravo_black"/>
@@ -102,7 +102,7 @@
         <link name="${name}_1013_joint_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1013 B.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1013_B.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
                 <origin rpy="0 0 3.14159" xyz="0.0 00 0.0"/>
@@ -142,7 +142,7 @@
         <link name="${name}_1026_0_base_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026 A.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026_A.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
@@ -173,7 +173,7 @@
         <link name="${name}_1026_0_joint_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026 B.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026_B.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
@@ -222,7 +222,7 @@
         <link name="${name}_1026_1_joint_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026 C.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1026_C.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
                 <origin xyz="0 0 0 " rpy="0 0 0"/>
@@ -254,7 +254,7 @@
         <link name="${name}_1023_0_base_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023 A.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023_A.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
@@ -285,7 +285,7 @@
         <link name="${name}_1023_0_joint_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023 B.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023_B.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
@@ -334,7 +334,7 @@
         <link name="${name}_1023_1_joint_link">
             <visual>
                 <geometry>
-                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023 C.stl"/>
+                    <mesh filename="package://reach_bravo_description_mk2/meshes/1023_C.stl"/>
                 </geometry>
                 <material name="bravo_black"/>
             </visual>
